@@ -9,5 +9,5 @@ cd game
 python 3 main.py
 
 ```
-
+Pagina para librerias en PIP: https://pypi.org/
 
