@@ -18,3 +18,5 @@ python3 -m venv env
 source env/Scripts/activate
 pip3 install -r requirements.txt
 ```
+
+### para crear un requirements: pip3 freeze > requirements.txt
