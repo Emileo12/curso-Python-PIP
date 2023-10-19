@@ -1,7 +1,9 @@
 services:
-  game-csv:
+  web-server:
     build:
       context: .
       dockerfile: Dockerfile
     volumes:
       - .:/Game
+    ports:
+      - '80:80'

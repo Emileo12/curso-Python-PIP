@@ -1,7 +1,7 @@
 """Rock, paper, scissors!
 
 
-Rock, paper, scissors made on Python.
+Rock, paper, scissors made on Python. Curso Python & PIP
 """
 
 import random
