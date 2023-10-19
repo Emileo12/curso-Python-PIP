@@ -1,0 +1,6 @@
+services:
+  game-csv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    
