@@ -20,3 +20,12 @@ pip3 install -r requirements.txt
 ```
 
 ### para crear un requirements: pip3 freeze > requirements.txt
+ 
+# web-server
+
+Para cargar la pagina web
+```sh
+cd web-server
+uvicorn main:app --reload
+```
+Y copiamos el link que nos da y pegamos en nuestro navegador
