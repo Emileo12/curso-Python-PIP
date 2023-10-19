@@ -14,6 +14,7 @@ Pagina para librerias en PIP: https://pypi.org/
 ``` sh
 git clone
 cd game
+python3 -m venv env
 source env/Scripts/activate
 pip3 install -r requirements.txt
 ```
