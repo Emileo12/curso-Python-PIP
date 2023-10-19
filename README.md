@@ -11,3 +11,9 @@ python 3 main.py
 ```
 Pagina para librerias en PIP: https://pypi.org/
 
+``` sh
+git clone
+cd game
+source env/Scripts/activate
+pip3 install -r requirements.txt
+```
